@@ -5,3 +5,9 @@ img{
 div{
     width: 70%;
 }
+.teste{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
