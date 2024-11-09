@@ -1,4 +1,4 @@
-.Ladolado{
+.Ladoalado{
     display: flex;
     background-color: rgba(81, 170, 151, 0.418);
     padding: 15px;
@@ -8,36 +8,11 @@
     border-radius: 10px;
     width: 80%;
 }
-menu{
-    position: fixed;
-    z-index: 2;
-    background-color: rgb(52, 65, 62);
-    color: white;
-    width: 100%;
-    height: 50px;
-    margin-top: 0;
-    
-}
-#titulo{
-    padding-top: 50px;
-    margin-left: 2%;
-}
 table {
     border: solid 2px;
     border-color: rgb(255, 255, 255);
     padding: 20px;
     background-color: rgb(6, 75, 80);
-    color: white;
-}
-
-ul {
-    width: 70%;
-}
-
-ol {
-    width: 70%;
-}
-h6{
     color: white;
 }
 footer{

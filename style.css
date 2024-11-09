@@ -23,6 +23,9 @@ menu{
     align-items: center;
     text-align: center;
 }
+#menu{
+    width: 100%;
+}
 #titulo{
     padding-top: 50px;
     margin-left: 2%;
