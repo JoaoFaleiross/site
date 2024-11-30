@@ -1,0 +1,39 @@
+<table>
+                <thead>
+                <th>Ingredientes</th>
+                <th>Link de Compra </th>
+                <th>Preço</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1kg de abóbora</td>
+                    <td><a href="https://www.clubeextda.com.br/">Clique e compre</a></td>
+                    <td>R$5,39</td>
+                </tr>
+                <tr>
+                    <td>Oléo de soja</td>
+                    <td><a href="https://www.clubeextda.com.br/">Clique e compre</a></td>
+                    <td>R$7,09</td>
+                </tr>
+                <tr>
+                    <td>100g de Alho</td>
+                    <td><a href="https://www.clubeextda.com.br/">Clique e compre</a></td>
+                    <td>R$3,99</td>
+                </tr>
+                <tr>
+                    <td>600g de Cebola</td>
+                    <td><a href="https://www.clubeextda.com.br/">Clique e compre</a></td>
+                    <td>R$1,99</td>
+                </tr>
+                <tr>
+                    <td>Cheiro-verde casal maço</td>
+                    <td><a href="https://www.ifrutus.com.br/">Clique e compre</a></td>
+                    <td>R$6,99</td>
+                </tr>
+                <tr>
+                    <td><strong>Total</strong></td>
+                    <td></td>
+                    <td><strong>R$25,45</strong></td>
+                </tr>
+            </tbody>
+        </table>

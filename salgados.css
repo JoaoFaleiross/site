@@ -28,6 +28,8 @@ table {
     padding: 20px;
     background-color: rgb(6, 75, 80);
     color: white;
+    width: 400px;
+    
 }
 
 ul {
@@ -47,4 +49,7 @@ footer{
     justify-items: center;
     padding-top: 1%;
     margin-bottom: 0%;
+}
+tr,td{
+    width: 50px;
 }
