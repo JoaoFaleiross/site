@@ -28,7 +28,7 @@ table {
     padding: 20px;
     background-color: rgb(0, 54, 47);
     color: white;
-    width: 750px;
+    max-width: 100%;
     
 }
 
